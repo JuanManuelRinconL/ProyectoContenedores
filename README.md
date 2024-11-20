@@ -56,9 +56,9 @@ como podemos vistualizar se instalaron las siguientes herramientas
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/d.jpeg)
 
 
-*Los volúmenes físicos se crean como una forma de gestionar eficientemente el almacenamiento en un sistema. Son bloques de espacio físico 
+*"Los volúmenes físicos se crean como una forma de gestionar eficientemente el almacenamiento en un sistema. Son bloques de espacio físico 
 en un disco duro o dispositivo de almacenamiento que pueden agruparse y administrarse de manera flexible, normalmente dentro de un sistema 
-de administración de volúmenes como LVM (Logical Volume Manager).*
+de administración de volúmenes como LVM (Logical Volume Manager)."*
 
 # Creacion de grupos de volumenes:
 
