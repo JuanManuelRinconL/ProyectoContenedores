@@ -117,7 +117,11 @@ de administración de volúmenes como LVM (Logical Volume Manager).*
 *"El mkfs.ext4 es una herramienta en sistemas Linux que se utiliza para formatear una partición o disco con el sistema de archivos ext4. 
 Este sistema de archivos es uno de los más comunes en Linux debido a su fiabilidad, eficiencia y compatibilidad con características modernas."*
 
+# Creacion de directorios de Volumenes
+
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/6.jpg)
+ 
+# Preparacion del Docker para apache
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/7.jpg)
 
@@ -125,9 +129,15 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/9.jpg)
 
+ *"Un dockerfile  es un archivo de texto que contiene una serie de instrucciones que Docker sigue para construir una imagen de contenedor.
+ Estas instrucciones definen el entorno de ejecución de una aplicación, especificando desde el sistema operativo base hasta las dependencias, 
+ herramientas y el código que debe incluirse en la imagen."*
+
+# Etiqueta  de la imagen Apache
+
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/10.jpg)
 
- ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/11.jpg)
+# Ejecucion del contenedor de apache
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/12.jpg)
 
@@ -135,12 +145,28 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/13.jpg)
 
- ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/14.jpg)
+# Visualización del contenedor apache creado
 
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/14.jpg)
+ 
+# Perparacion del volumen para MySQL y Nginx
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/11.jpg)
+
+# Preparacion del Docker para MySQL
+ 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/15.jpg)
+
+# Creacion del Archivo Dockerfile 
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/16.jpg)
 
+ *"Un dockerfile  es un archivo de texto que contiene una serie de instrucciones que Docker sigue para construir una imagen de contenedor.
+ Estas instrucciones definen el entorno de ejecución de una aplicación, especificando desde el sistema operativo base hasta las dependencias, 
+ herramientas y el código que debe incluirse en la imagen."*
+
+ # Etiqueta de la imagen de MySQL
+ 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/17.jpg)
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/18.jpg)
@@ -149,13 +175,26 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/20.jpg)
 
+# Ejecucion del contenedor de MySQL
+
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/21.jpg)
 
+ # Visualización del contenedor de MySQL creado
+ 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/22.jpg)
 
+ # Preparacion del Docker para Nginx
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/23.jpg)
 
+# Creacion del Archivo Dockerfile 
+
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/24.jpg)
+
+ *"Un dockerfile  es un archivo de texto que contiene una serie de instrucciones que Docker sigue para construir una imagen de contenedor.
+ Estas instrucciones definen el entorno de ejecución de una aplicación, especificando desde el sistema operativo base hasta las dependencias, 
+ herramientas y el código que debe incluirse en la imagen."*
+
+# Etiqueta de la imagen de Nginx 
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/25.jpg)
 
@@ -163,6 +202,10 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/27.jpg)
 
+# Ejecucion del contenedor de Nginx
+
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/28.jpg)
 
+ # Visualización del contenedor de Nginx creado
+ 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/29.jpg)
