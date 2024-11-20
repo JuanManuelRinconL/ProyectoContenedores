@@ -145,6 +145,9 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/13.jpg)
 
+ *" Podman es principalmente utilizado como una alternativa a Docker para gestionar contenedores, con un enfoque en la seguridad, 
+la ejecución sin un demonio central, y la compatibilidad con Docker y Kubernetes."*
+
 # Visualización del contenedor apache creado
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/14.jpg)
@@ -175,6 +178,9 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/20.jpg)
 
+*" Podman es principalmente utilizado como una alternativa a Docker para gestionar contenedores, con un enfoque en la seguridad, 
+la ejecución sin un demonio central, y la compatibilidad con Docker y Kubernetes."*
+
 # Ejecucion del contenedor de MySQL
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/21.jpg)
@@ -201,6 +207,9 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/26.jpg)
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/27.jpg)
+
+*" Podman es principalmente utilizado como una alternativa a Docker para gestionar contenedores, con un enfoque en la seguridad, 
+la ejecución sin un demonio central, y la compatibilidad con Docker y Kubernetes."*
 
 # Ejecucion del contenedor de Nginx
 
