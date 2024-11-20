@@ -49,7 +49,7 @@ como podemos vistualizar se instalaron las siguientes herramientas
    
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/c.jpeg)
 
-# Fase 2: Desarrollo:
+# Fase 2: Creación:
 
 # Primer paso
 
