@@ -137,6 +137,9 @@ Este sistema de archivos es uno de los más comunes en Linux debido a su fiabili
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/10.jpg)
 
+ *" Podman es principalmente utilizado como una alternativa a Docker para gestionar contenedores, con un enfoque en la seguridad, 
+la ejecución sin un demonio central, y la compatibilidad con Docker y Kubernetes."*
+
 # Ejecucion del contenedor de apache
 
  ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/12.jpg)
