@@ -51,20 +51,23 @@ como podemos vistualizar se instalaron las siguientes herramientas
 
 # Fase 2: Creación:
 
-# Primer paso
-
-Creacion de Volumenes fisicos:
+# Creacion de Volumenes fisicos y Grupo de volumenes:
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/d.jpeg)
+
 
 *Los volúmenes físicos se crean como una forma de gestionar eficientemente el almacenamiento en un sistema. Son bloques de espacio físico 
 en un disco duro o dispositivo de almacenamiento que pueden agruparse y administrarse de manera flexible, normalmente dentro de un sistema 
 de administración de volúmenes como LVM (Logical Volume Manager).*
 
-# Segundo paso
-Creacion de grupos de volumenes:
+# Creacion de grupos de volumenes:
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/1.jpg)
+
+
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/e.jpeg)
+ 
 
 *actúan como un "contenedor" para agrupar varios volúmenes físicos y dividir ese espacio en volúmenes lógicos según sea necesario.*
 
@@ -72,9 +75,8 @@ Creacion de grupos de volumenes:
 
 ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/f.jpeg)
 
-# Tercer paso
 
-Creación de los RAIDS:
+# Creación de los RAIDS:
 
 * RAID 1
 
@@ -92,3 +94,75 @@ Creación de los RAIDS:
  incluso si un disco falla, ya que crea una copia exacta de la información en dos o más discos."*
 
  
+
+ # FASE 3: Implementación de herramientas y FASE 2
+
+# Creacion de volumenes logicos
+
+ - Apache
+  
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/2.jpg)
+
+ - Mysql
+ - Nginx
+ 
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/3.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/4.jpg)
+
+ # Uso de la herramienta mkfs.ext4 
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/5.jpg)
+
+*"El mkfs.ext4 es una herramienta en sistemas Linux que se utiliza para formatear una partición o disco con el sistema de archivos ext4. 
+Este sistema de archivos es uno de los más comunes en Linux debido a su fiabilidad, eficiencia y compatibilidad con características modernas."*
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/6.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/7.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/8.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/9.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/10.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/11.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/12.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/12.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/13.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/14.jpg)
+
+ ![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/15.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/16.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/17.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/18.jpg)
+ 
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/19.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/20.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/21.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/22.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/23.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/24.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/25.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/26.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/27.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/28.jpg)
+
+![Captura de Pantalla](https://github.com/JuanManuelRinconL/ProyectoContenedores/raw/main/imagenes/29.jpg)
